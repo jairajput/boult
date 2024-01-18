@@ -24,10 +24,10 @@ struct LoginView: View {
                 VStack {
                     TextField("Enter your email", text: $viewModel.email)
                         .autocapitalization(.none)
-                        .modifier(ThreadsTextFieldModifier())
+                        .modifier(BoultTextFieldModifier())
                     
                     SecureField("Enter your password", text: $viewModel.password)
-                        .modifier(ThreadsTextFieldModifier())
+                        .modifier(BoultTextFieldModifier())
                 }
                 
                 NavigationLink {
