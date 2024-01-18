@@ -13,6 +13,7 @@
 		D8C950BC2B594F7F00C1ED81 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = D8C950BB2B594F7F00C1ED81 /* FirebaseFirestoreSwift */; };
 		D8C950D22B594F7F00C1ED81 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = D8C950D12B594F7F00C1ED81 /* FirebaseStorage */; };
 		D8C950D72B59510800C1ED81 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = D8C950D62B59510800C1ED81 /* Kingfisher */; };
+		D8C950D92B59533600C1ED81 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C950D82B59533600C1ED81 /* ActivityView.swift */; };
 		D8FF97B62B593F3A00F7DA30 /* boultApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FF97B52B593F3A00F7DA30 /* boultApp.swift */; };
 		D8FF97B82B593F3A00F7DA30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FF97B72B593F3A00F7DA30 /* ContentView.swift */; };
 		D8FF97BA2B593F3C00F7DA30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8FF97B92B593F3C00F7DA30 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		D8C9509C2B594EF500C1ED81 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		D8C950D82B59533600C1ED81 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
 		D8FF97B22B593F3A00F7DA30 /* boult.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = boult.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8FF97B52B593F3A00F7DA30 /* boultApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boultApp.swift; sourceTree = "<group>"; };
 		D8FF97B72B593F3A00F7DA30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 		D8C950982B594BD000C1ED81 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				D8C950D82B59533600C1ED81 /* ActivityView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 			files = (
 				D8FF97B82B593F3A00F7DA30 /* ContentView.swift in Sources */,
 				D8FF97B62B593F3A00F7DA30 /* boultApp.swift in Sources */,
+				D8C950D92B59533600C1ED81 /* ActivityView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
