@@ -16,7 +16,7 @@ class FeedViewModel: ObservableObject {
     }
     
     func fetchThreads() async throws {
-        self.boults = try await BoultService.fetchThreads()
+        self.boults = try await BoultService.fetchBoults()
         try await fetchUserDataForBoults()
     }
     
