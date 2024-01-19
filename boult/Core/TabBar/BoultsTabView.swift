@@ -9,7 +9,7 @@ import SwiftUI
 
 struct BoultsTabView: View {
     @State private var selectedTab = 0
-    @State private var showCreateThreadView = false
+    @State private var showCreateBoultView = false
     
     var body: some View {
         TabView(selection: $selectedTab) {
@@ -52,9 +52,9 @@ struct BoultsTabView: View {
                 .tag(4)
         }
         .onChange(of: selectedTab, perform: { newValue in
-            showCreateThreadView = selectedTab == 2
+            showCreateBoultView = selectedTab == 2
         })
-        .sheet(isPresented: $showCreateThreadView, onDismiss: {
+        .sheet(isPresented: $showCreateBoultView, onDismiss: {
             selectedTab = 0
         }, content: {
             CreateBoultView()
