@@ -38,6 +38,7 @@
 		D8C951192B5A397E00C1ED81 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C951182B5A397E00C1ED81 /* ContentViewModel.swift */; };
 		D8C9511D2B5A3B3700C1ED81 /* BoultsTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C9511C2B5A3B3700C1ED81 /* BoultsTabView.swift */; };
 		D8C951212B5A3BFA00C1ED81 /* CreateBoultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C951202B5A3BFA00C1ED81 /* CreateBoultView.swift */; };
+		D8C951232B5A3C8E00C1ED81 /* CreateBoultViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C951222B5A3C8E00C1ED81 /* CreateBoultViewModel.swift */; };
 		D8FF97B62B593F3A00F7DA30 /* boultApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FF97B52B593F3A00F7DA30 /* boultApp.swift */; };
 		D8FF97B82B593F3A00F7DA30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FF97B72B593F3A00F7DA30 /* ContentView.swift */; };
 		D8FF97BA2B593F3C00F7DA30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8FF97B92B593F3C00F7DA30 /* Assets.xcassets */; };
@@ -71,6 +72,7 @@
 		D8C951182B5A397E00C1ED81 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		D8C9511C2B5A3B3700C1ED81 /* BoultsTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoultsTabView.swift; sourceTree = "<group>"; };
 		D8C951202B5A3BFA00C1ED81 /* CreateBoultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBoultView.swift; sourceTree = "<group>"; };
+		D8C951222B5A3C8E00C1ED81 /* CreateBoultViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBoultViewModel.swift; sourceTree = "<group>"; };
 		D8FF97B22B593F3A00F7DA30 /* boult.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = boult.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8FF97B52B593F3A00F7DA30 /* boultApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boultApp.swift; sourceTree = "<group>"; };
 		D8FF97B72B593F3A00F7DA30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -407,6 +409,7 @@
 		D8C9511E2B5A3BDB00C1ED81 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				D8C951222B5A3C8E00C1ED81 /* CreateBoultViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -564,6 +567,7 @@
 				D8C9510B2B5A36FC00C1ED81 /* CurrentUserProfileViewModel.swift in Sources */,
 				D8C950F02B5A2F7300C1ED81 /* ExploreViewModel.swift in Sources */,
 				D8C950DD2B5953D200C1ED81 /* RegistrationView.swift in Sources */,
+				D8C951232B5A3C8E00C1ED81 /* CreateBoultViewModel.swift in Sources */,
 				D8C950E92B5957C100C1ED81 /* UserCell.swift in Sources */,
 				D8C950EE2B5A2F4B00C1ED81 /* ExploreView.swift in Sources */,
 				D8C950E12B5955B200C1ED81 /* LoginViewModel.swift in Sources */,
