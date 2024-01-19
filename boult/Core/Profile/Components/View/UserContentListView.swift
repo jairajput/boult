@@ -52,7 +52,7 @@ struct UserContentListView: View {
             }
             
             LazyVStack {
-                ForEach(viewModel.threads) { thread in
+                ForEach(viewModel.boults) { boult in
                     BoultCell(boult: boult)
                 }
             }
