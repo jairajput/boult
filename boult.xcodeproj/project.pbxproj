@@ -46,6 +46,7 @@
 		D8C9512D2B5A3E4F00C1ED81 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C9512C2B5A3E4F00C1ED81 /* UserService.swift */; };
 		D8C9512F2B5A3EBA00C1ED81 /* ImageUploader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C9512E2B5A3EBA00C1ED81 /* ImageUploader.swift */; };
 		D8C951312B5A3F2B00C1ED81 /* BoultService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C951302B5A3F2B00C1ED81 /* BoultService.swift */; };
+		D8C951342B5A408300C1ED81 /* BoultsTextFieldModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C951332B5A408300C1ED81 /* BoultsTextFieldModifier.swift */; };
 		D8FF97B62B593F3A00F7DA30 /* boultApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FF97B52B593F3A00F7DA30 /* boultApp.swift */; };
 		D8FF97B82B593F3A00F7DA30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FF97B72B593F3A00F7DA30 /* ContentView.swift */; };
 		D8FF97BA2B593F3C00F7DA30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8FF97B92B593F3C00F7DA30 /* Assets.xcassets */; };
@@ -87,6 +88,7 @@
 		D8C9512C2B5A3E4F00C1ED81 /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
 		D8C9512E2B5A3EBA00C1ED81 /* ImageUploader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageUploader.swift; sourceTree = "<group>"; };
 		D8C951302B5A3F2B00C1ED81 /* BoultService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoultService.swift; sourceTree = "<group>"; };
+		D8C951332B5A408300C1ED81 /* BoultsTextFieldModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoultsTextFieldModifier.swift; sourceTree = "<group>"; };
 		D8FF97B22B593F3A00F7DA30 /* boult.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = boult.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8FF97B52B593F3A00F7DA30 /* boultApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boultApp.swift; sourceTree = "<group>"; };
 		D8FF97B72B593F3A00F7DA30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 		D8C9508E2B594A3400C1ED81 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				D8C951322B5A404200C1ED81 /* ViewModifier */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -443,6 +446,14 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+		D8C951322B5A404200C1ED81 /* ViewModifier */ = {
+			isa = PBXGroup;
+			children = (
+				D8C951332B5A408300C1ED81 /* BoultsTextFieldModifier.swift */,
+			);
+			path = ViewModifier;
+			sourceTree = "<group>";
+		};
 		D8FF97A92B593F3A00F7DA30 = {
 			isa = PBXGroup;
 			children = (
@@ -582,6 +593,7 @@
 				D8C950D92B59533600C1ED81 /* ActivityView.swift in Sources */,
 				D8C9511D2B5A3B3700C1ED81 /* BoultsTabView.swift in Sources */,
 				D8C951252B5A3D4500C1ED81 /* PreviewProvider.swift in Sources */,
+				D8C951342B5A408300C1ED81 /* BoultsTextFieldModifier.swift in Sources */,
 				D8C9512D2B5A3E4F00C1ED81 /* UserService.swift in Sources */,
 				D8C950FF2B5A326F00C1ED81 /* ProfileHeaderView.swift in Sources */,
 				D8C9512F2B5A3EBA00C1ED81 /* ImageUploader.swift in Sources */,

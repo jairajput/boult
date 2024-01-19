@@ -61,7 +61,7 @@ struct CreateBoultView: View {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Post") {
                         Task {
-                            try await viewModel.uploadThread(caption: caption)
+                            try await viewModel.uploadBoult(caption: caption)
                             dismiss()
                         }
                     }

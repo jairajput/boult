@@ -75,6 +75,8 @@ struct BoultCell: View {
 }
 
 
-#Preview {
-    BoultCell(boult: dev.boult)
+struct BoultCell_Previews: PreviewProvider {
+    static var previews: some View {
+        BoultCell(boult: dev.boult)
+    }
 }

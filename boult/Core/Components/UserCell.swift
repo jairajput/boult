@@ -37,6 +37,8 @@ struct UserCell: View {
     }
 }
 
-#Preview {
-    UserCell(user: dev.user)
+struct UserCell_Previews: PreviewProvider {
+    static var previews: some View {
+        UserCell(user: dev.user)
+    }
 }

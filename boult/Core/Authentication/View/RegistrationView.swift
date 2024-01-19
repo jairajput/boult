@@ -15,7 +15,7 @@ struct RegistrationView: View {
         VStack {
             Spacer()
             
-            Image(systemName: "boult")
+            Image(systemName: "tropicalstorm.circle.fill")
                 .resizable()
                 .scaledToFit()
                 .frame(width: 120, height: 120)
@@ -24,17 +24,17 @@ struct RegistrationView: View {
             VStack {
                 TextField("Enter your email", text: $viewModel.email)
                     .autocapitalization(.none)
-                    .modifier(BoultTextFieldModifier())
+                    .modifier(BoultsTextFieldModifier())
                 
                 SecureField("Enter your password", text: $viewModel.password)
-                    .modifier(BoultTextFieldModifier())
+                    .modifier(BoultsTextFieldModifier())
                 
                 TextField("Enter your full name", text: $viewModel.fullname)
-                    .modifier(BoultTextFieldModifier())
+                    .modifier(BoultsTextFieldModifier())
                 
                 TextField("Enter your username", text: $viewModel.username)
                     .autocapitalization(.none)
-                    .modifier(BoultTextFieldModifier())
+                    .modifier(BoultsTextFieldModifier())
             }
             
             Button {

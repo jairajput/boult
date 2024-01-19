@@ -9,7 +9,7 @@ import SwiftUI
 import Firebase
 
 extension PreviewProvider {
-    static var dev: DeveloperPreview {
+    static var dev : DeveloperPreview {
         return DeveloperPreview.shared
     }
 }
@@ -19,5 +19,5 @@ class DeveloperPreview {
     
     let user = User(id: NSUUID().uuidString, fullname: "Tommy Shelby", email: "tommy@gmail.com", username: "tommy_shelby1")
     
-    let thread = Thread(ownerUid: "123", caption: "This is a test thread", timestamp: Timestamp(), likes: 0)
+    let boult = Boult(ownerUid: "123", caption: "This is a test thread", timestamp: Timestamp(), likes: 0)
 }

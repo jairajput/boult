@@ -49,6 +49,8 @@ struct CircularProfileImageView: View {
 }
 
 
-#Preview {
-    CircularProfileImageView(user: dev.user, size: .medium)
+struct CircularProfileImageView_Previews: PreviewProvider {
+    static var previews: some View {
+        CircularProfileImageView(user: dev.user, size: .medium)
+    }
 }

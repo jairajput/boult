@@ -15,7 +15,7 @@ struct LoginView: View {
             VStack {
                 Spacer()
                 
-                Image(systemName: "boult")
+                Image(systemName: "tropicalstorm.circle.fill")
                     .resizable()
                     .scaledToFit()
                     .frame(width: 120, height: 120)
@@ -24,10 +24,10 @@ struct LoginView: View {
                 VStack {
                     TextField("Enter your email", text: $viewModel.email)
                         .autocapitalization(.none)
-                        .modifier(BoultTextFieldModifier())
+                        .modifier(BoultsTextFieldModifier())
                     
                     SecureField("Enter your password", text: $viewModel.password)
-                        .modifier(BoultTextFieldModifier())
+                        .modifier(BoultsTextFieldModifier())
                 }
                 
                 NavigationLink {

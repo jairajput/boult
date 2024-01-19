@@ -15,12 +15,12 @@ class FeedViewModel: ObservableObject {
         Task { try await fetchBoults() }
     }
     
-    func fetchThreads() async throws {
+    func fetchBoults() async throws {
         self.boults = try await BoultService.fetchBoults()
         try await fetchUserDataForBoults()
     }
     
-    private func fetchUserDataForThreads() async throws {
+    private func fetchUserDataForBoults() async throws {
         for i in 0 ..< boults.count {
             let boult = boults[i]
             let ownerUid = boult.ownerUid
@@ -30,3 +30,4 @@ class FeedViewModel: ObservableObject {
         }
     }
 }
+
