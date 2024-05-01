@@ -1,0 +1,30 @@
+"/Users/jaivardhan/iOS/boult/boult/App/boultApp.swift":
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.dia"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.swiftdeps"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.d"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.o"
+"/Users/jaivardhan/iOS/boult/boult/Model/Boult.swift":
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.swiftdeps"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.d"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.dia"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.swiftconstvalues"
+"/Users/jaivardhan/iOS/boult/boult/Core/Activity/View/ActivityView.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.d"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.dia"
+"/Users/jaivardhan/iOS/boult/boult/Core/Feed/ViewModel/FeedViewModel.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.d"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.swiftdeps"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.o"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.dia"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.swiftconstvalues"
+"/Users/jaivardhan/iOS/boult/boult/Core/Root/ViewModel/ContentViewModel.swift":
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.swiftdeps"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.o"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.d"

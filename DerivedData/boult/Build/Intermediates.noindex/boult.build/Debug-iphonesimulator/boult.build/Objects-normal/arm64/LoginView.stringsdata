@@ -1,0 +1,36 @@
+{
+  "source": "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/View/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter your email"
+      },
+      {
+        "comment": "",
+        "key": "Enter your password"
+      },
+      {
+        "comment": "",
+        "key": "Forgot password"
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password?"
+      },
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign Up"
+      }
+    ]
+  },
+  "version": 1
+}

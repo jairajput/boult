@@ -1,0 +1,24 @@
+"/Users/jaivardhan/iOS/boult/boult/Core/Explore/ViewModel/ExploreViewModel.swift":
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.swiftdeps"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.o"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.dia"
+"/Users/jaivardhan/iOS/boult/boult/Core/Authentication/ViewModel/RegistrationViewModel.swift":
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.o"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.swiftconstvalues"
+"/Users/jaivardhan/iOS/boult/boult/Core/Profile/CurrentUserProfile/ViewModel/CurrentUserProfileViewModel.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.d"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.swiftconstvalues"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.dia"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.swiftdeps"
+"/Users/jaivardhan/iOS/boult/boult/Core/Profile/UserProfile/ProfileView.swift":
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.o"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.swiftconstvalues"

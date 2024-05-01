@@ -1,0 +1,18 @@
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageMetadata.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.d"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.dia"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.swiftdeps"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageMetadata.swiftconstvalues"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageError.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.d"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.dia"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.o"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageListResult.swift":
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.o"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.d"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.swiftdeps"

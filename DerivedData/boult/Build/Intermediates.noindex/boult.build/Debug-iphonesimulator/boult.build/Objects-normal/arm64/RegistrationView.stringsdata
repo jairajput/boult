@@ -1,0 +1,36 @@
+{
+  "source": "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/View/RegistrationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter your email"
+      },
+      {
+        "comment": "",
+        "key": "Enter your password"
+      },
+      {
+        "comment": "",
+        "key": "Enter your full name"
+      },
+      {
+        "comment": "",
+        "key": "Enter your username"
+      },
+      {
+        "comment": "",
+        "key": "Sign Up"
+      },
+      {
+        "comment": "",
+        "key": "Already have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign In"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,57 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "88114a9aea16640e8feb8315fc765b9ab88b322273db1f2844510ff83f0e85fe"
+build_start_time: [1711928289, 232223000]
+build_end_time: [1711928291, 654752000]
+inputs:
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/ApplicationInfo.swift"
+  : [1711928109, 511705004]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Development/DevEventConsoleLogger.swift"
+  : [1711928109, 511830993]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Development/NanoPB+CustomStringConvertible.swift"
+  : [1711928109, 511936262]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/EventGDTLogger.swift"
+  : [1711928109, 512021561]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/FirebaseSessions.swift"
+  : [1711928109, 512191034]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/FirebaseSessionsError.swift"
+  : [1711928109, 512377851]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/GoogleDataTransport+GoogleDataTransportProtocol.swift"
+  : [1711928109, 512455896]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Installations+InstallationsProtocol.swift"
+  : [1711928109, 512526561]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Logger.swift"
+  : [1711928109, 512599229]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/NetworkInfo.swift"
+  : [1711928109, 512679150]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Public/SessionsDependencies.swift"
+  : [1711928109, 512980782]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Public/SessionsProvider.swift"
+  : [1711928109, 513120822]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Public/SessionsSubscriber.swift"
+  : [1711928109, 513189903]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/SessionCoordinator.swift"
+  : [1711928109, 513268657]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/SessionGenerator.swift"
+  : [1711928109, 513345118]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/SessionInitiator.swift"
+  : [1711928109, 513567455]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/SessionStartEvent.swift"
+  : [1711928109, 513694361]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/LocalOverrideSettings.swift"
+  : [1711928109, 513808552]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/RemoteSettings.swift"
+  : [1711928109, 513904566]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/SDKDefaultSettings.swift"
+  : [1711928109, 513981068]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/SessionsSettings.swift"
+  : [1711928109, 514044939]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/SettingsCacheClient.swift"
+  : [1711928109, 514124818]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/SettingsDownloadClient.swift"
+  : [1711928109, 514335148]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/SettingsProtocol.swift"
+  : [1711928109, 514406564]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Settings/SettingsProvider.swift"
+  : [1711928109, 514462597]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/Sources/Time.swift"
+  : [1711928109, 514573828]

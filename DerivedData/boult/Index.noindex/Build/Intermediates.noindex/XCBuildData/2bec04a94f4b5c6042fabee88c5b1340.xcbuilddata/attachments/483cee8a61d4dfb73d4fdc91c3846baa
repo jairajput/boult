@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.swiftdeps"
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Functions/Functions+Combine.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Functions/HTTPSCallable+Combine.swift" : {
+
+  }
+}

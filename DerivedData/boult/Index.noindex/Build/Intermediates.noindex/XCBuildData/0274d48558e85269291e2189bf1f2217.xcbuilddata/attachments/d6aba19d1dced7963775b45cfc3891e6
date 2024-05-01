@@ -1,0 +1,45 @@
+{
+  "" : {
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.swiftdeps"
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift" : {
+
+  }
+}

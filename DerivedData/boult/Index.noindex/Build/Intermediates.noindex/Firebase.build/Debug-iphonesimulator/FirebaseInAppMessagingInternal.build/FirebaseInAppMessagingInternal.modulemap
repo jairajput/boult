@@ -1,0 +1,4 @@
+module FirebaseInAppMessagingInternal {
+umbrella "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseInAppMessaging/Sources/Public"
+export *
+}

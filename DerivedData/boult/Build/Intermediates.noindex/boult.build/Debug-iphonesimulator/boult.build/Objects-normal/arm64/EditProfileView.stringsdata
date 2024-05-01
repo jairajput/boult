@@ -1,0 +1,44 @@
+{
+  "source": "/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/View/EditProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit Profile"
+      },
+      {
+        "comment": "",
+        "key": "Private Profile"
+      },
+      {
+        "comment": "",
+        "key": "Name"
+      },
+      {
+        "comment": "",
+        "key": "Bio"
+      },
+      {
+        "comment": "",
+        "key": "Enter your bio..."
+      },
+      {
+        "comment": "",
+        "key": "Link"
+      },
+      {
+        "comment": "",
+        "key": "Add link..."
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "Done"
+      }
+    ]
+  },
+  "version": 1
+}

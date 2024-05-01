@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.swiftdeps"
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/Codable.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/FirebaseRemoteConfigValueDecoderHelper.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigProperty.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigValueObservable.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/SPMSwiftHeaderWorkaround.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/Value.swift" : {
+
+  }
+}

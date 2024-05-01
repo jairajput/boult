@@ -1,0 +1,48 @@
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDataTask.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDataTask.o"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDataTask.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDataTask.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDataTask.dia"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RequestModifier.d"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RequestModifier.dia"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RequestModifier.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RequestModifier.swiftdeps"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RequestModifier.swiftconstvalues"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift":
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.swiftdeps"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.o"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.swiftconstvalues"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFAnimatedImage.dia"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDelegate.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDelegate.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDelegate.swiftdeps"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDelegate.swiftconstvalues"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SessionDelegate.dia"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift":
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RedirectHandler.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RedirectHandler.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RedirectHandler.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RedirectHandler.o"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift":
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RetryStrategy.o"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RetryStrategy.d"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RetryStrategy.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RetryStrategy.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/RetryStrategy.dia"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift":
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageBinder.o"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageBinder.swiftconstvalues"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageBinder.d"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageBinder.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageBinder.dia"
+"/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift":
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageContext.swiftdeps"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageContext.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageContext.o"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageContext.d"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ImageContext.dia"

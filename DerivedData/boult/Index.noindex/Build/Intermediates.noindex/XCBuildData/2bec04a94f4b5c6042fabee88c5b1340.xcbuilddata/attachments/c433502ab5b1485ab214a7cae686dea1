@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseRemoteConfigSwift.build/Objects-normal/arm64/FirebaseRemoteConfigSwift-master.swiftdeps"
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfigSwift/Sources/FirebaseRemoteConfigSwift.swift" : {
+
+  }
+}

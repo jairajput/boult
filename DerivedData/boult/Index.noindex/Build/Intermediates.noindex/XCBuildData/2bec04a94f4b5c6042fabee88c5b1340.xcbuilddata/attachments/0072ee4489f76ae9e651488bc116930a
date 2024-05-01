@@ -1,0 +1,33 @@
+{
+  "" : {
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctions.build/Objects-normal/arm64/FirebaseFunctions-master.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctions.build/Objects-normal/arm64/FirebaseFunctions-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctions.build/Objects-normal/arm64/FirebaseFunctions-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctions.build/Objects-normal/arm64/FirebaseFunctions-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseFunctions.build/Objects-normal/arm64/FirebaseFunctions-master.swiftdeps"
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Callable+Codable.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Functions.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/FunctionsError.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/HTTPSCallable.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/HTTPSCallableOptions.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Internal/FunctionsComponent.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Internal/FunctionsContext.swift" : {
+
+  },
+  "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Internal/FunctionsSerializer.swift" : {
+
+  }
+}

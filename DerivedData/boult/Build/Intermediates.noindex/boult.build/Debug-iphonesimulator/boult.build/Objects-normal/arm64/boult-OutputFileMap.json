@@ -1,0 +1,378 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master.swiftdeps"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/App/boultApp.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boultApp~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Activity/View/ActivityView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ActivityView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/Service/AuthService.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/AuthService~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/View/LoginView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/View/RegistrationView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/ViewModel/LoginViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/LoginViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/ViewModel/RegistrationViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/RegistrationViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/BoultCreation/View/CreateBoultView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/BoultCreation/ViewModel/CreateBoultViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Components/BoultCell.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultCell~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Components/CircularProfileImageView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CircularProfileImageView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Components/UserCell.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserCell~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Explore/View/ExploreView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Explore/ViewModel/ExploreViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ExploreViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Feed/View/FeedView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Feed/ViewModel/FeedViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Components/View/ProfileHeaderView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileHeaderView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Components/View/UserContentListView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Components/ViewModel/UserContentListViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserContentListViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/CurrentUserProfile/View/CurrentUserProfileView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/CurrentUserProfile/ViewModel/CurrentUserProfileViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CurrentUserProfileViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/View/EditProfileView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/ViewModel/EditProfileViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Model/ProfileBoultFilter.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileBoultFilter~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/UserProfile/ProfileView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Root/View/ContentView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Root/ViewModel/ContentViewModel.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ContentViewModel~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/TabBar/BoultsTabView.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTabView~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Extension/PreviewProvider.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/PreviewProvider~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Extension/Timestamp.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Timestamp~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Model/Boult.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/Boult~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Model/User.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Services/BoultService.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultService~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Services/ImageUploader.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/ImageUploader~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Services/UserService.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/UserService~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Utils/ViewModifier/BoultsTextFieldModifier.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/BoultsTextFieldModifier~partial.swiftmodule"
+  },
+  "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

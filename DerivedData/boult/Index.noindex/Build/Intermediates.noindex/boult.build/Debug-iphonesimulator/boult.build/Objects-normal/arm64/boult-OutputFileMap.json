@@ -1,0 +1,120 @@
+{
+  "" : {
+    "dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master.d",
+    "diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master.dia",
+    "emit-module-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/boult-master.swiftdeps"
+  },
+  "/Users/jaivardhan/iOS/boult/boult/App/boultApp.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Activity/View/ActivityView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/Service/AuthService.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/View/LoginView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/View/RegistrationView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/ViewModel/LoginViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Authentication/ViewModel/RegistrationViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/BoultCreation/View/CreateBoultView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/BoultCreation/ViewModel/CreateBoultViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Components/BoultCell.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Components/CircularProfileImageView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Components/UserCell.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Explore/View/ExploreView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Explore/ViewModel/ExploreViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Feed/View/FeedView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Feed/ViewModel/FeedViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Components/View/ProfileHeaderView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Components/View/UserContentListView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Components/ViewModel/UserContentListViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/CurrentUserProfile/View/CurrentUserProfileView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/CurrentUserProfile/ViewModel/CurrentUserProfileViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/View/EditProfileView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/ViewModel/EditProfileViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/Model/ProfileBoultFilter.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Profile/UserProfile/ProfileView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Root/View/ContentView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/Root/ViewModel/ContentViewModel.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Core/TabBar/BoultsTabView.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Extension/PreviewProvider.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Extension/Timestamp.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Model/Boult.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Model/User.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Services/BoultService.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Services/ImageUploader.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Services/UserService.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/boult/Utils/ViewModifier/BoultsTextFieldModifier.swift" : {
+
+  },
+  "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

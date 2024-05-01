@@ -1,0 +1,30 @@
+"/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/ViewModel/EditProfileViewModel.swift":
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.o"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.d"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileViewModel.dia"
+"/Users/jaivardhan/iOS/boult/boult/Core/Feed/View/FeedView.swift":
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.swiftdeps"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.d"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.o"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/FeedView.dia"
+"/Users/jaivardhan/iOS/boult/boult/Core/BoultCreation/View/CreateBoultView.swift":
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.d"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.dia"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.swiftdeps"
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/CreateBoultView.o"
+"/Users/jaivardhan/iOS/boult/boult/Model/User.swift":
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.swiftconstvalues"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.d"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/User.o"
+"/Users/jaivardhan/iOS/boult/boult/Core/Profile/EditProfile/View/EditProfileView.swift":
+  const-values: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.swiftconstvalues"
+  object: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.o"
+  swift-dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.swiftdeps"
+  diagnostics: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.dia"
+  dependencies: "/Users/jaivardhan/iOS/boult/DerivedData/boult/Build/Intermediates.noindex/boult.build/Debug-iphonesimulator/boult.build/Objects-normal/arm64/EditProfileView.d"

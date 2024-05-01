@@ -1,0 +1,129 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "e845c1e9a0a12067949ed4e5602aac746f85cea336edbe8a19da20c69a3a229b"
+build_start_time: [1711928270, 622465000]
+build_end_time: [1711928280, 270559000]
+inputs:
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : [1711928095, 358252846]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : [1711928095, 358400591]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1711928095, 358519587]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift"
+  : [1711928095, 358902114]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : [1711928095, 359173688]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift"
+  : [1711928095, 359257601]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1711928095, 359540133]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1711928095, 359752500]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1711928095, 359860121]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1711928095, 360122070]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1711928095, 360272189]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1711928095, 360365686]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1711928095, 360521888]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1711928095, 360711340]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1711928095, 360812836]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1711928095, 361012037]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1711928095, 361107075]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift"
+  : [1711928095, 361292194]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : [1711928095, 361571017]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift"
+  : [1711928095, 361676096]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift"
+  : [1711928095, 361876964]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift"
+  : [1711928095, 362022583]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1711928095, 362277199]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift"
+  : [1711928095, 363231872]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : [1711928095, 363325411]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : [1711928095, 363511196]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift"
+  : [1711928095, 363638858]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : [1711928095, 363862016]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift"
+  : [1711928095, 364084508]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : [1711928095, 364333915]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : [1711928095, 364435787]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift"
+  : [1711928095, 364508201]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift"
+  : [1711928095, 364679653]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1711928095, 364984392]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1711928095, 365060222]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1711928095, 365263256]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1711928095, 365415418]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : [1711928095, 365493706]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1711928095, 365857735]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1711928095, 366318551]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1711928095, 366412673]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : [1711928095, 366517752]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1711928095, 366608624]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1711928095, 366737369]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : [1711928095, 367101564]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : [1711928095, 367176186]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : [1711928095, 367251225]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : [1711928095, 367530173]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : [1711928095, 367628420]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : [1711928095, 367850037]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : [1711928095, 367955908]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift"
+  : [1711928095, 368785253]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : [1711928095, 368987328]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift"
+  : [1711928095, 369146531]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : [1711928095, 369247027]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift"
+  : [1711928095, 369324566]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift"
+  : [1711928095, 369405063]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : [1711928095, 369601848]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift"
+  : [1711928095, 369772925]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : [1711928095, 370029790]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift"
+  : [1711928095, 370136953]
+  ? "/Users/jaivardhan/iOS/boult/DerivedData/boult/Index.noindex/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1711928257, 240740000]

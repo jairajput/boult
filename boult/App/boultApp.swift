@@ -22,10 +22,35 @@ class AppDelegate: NSObject, UIApplicationDelegate {
 @main
 struct boultApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+//    @StateObject private var vm = HomeViewModel()
+//    @State private var showContentView: Bool = true
+//    
+//    init() {
+//        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor : UIColor(Color.theme.accent)]
+//        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor : UIColor(Color.theme.accent)]
+//        UINavigationBar.appearance().tintColor = UIColor(Color.theme.accent)
+//        UITableView.appearance().backgroundColor = UIColor.clear
+//    }
     
     var body: some Scene {
         WindowGroup {
             ContentView()
+//            ZStack {
+//                NavigationView {
+//                    mainTabView()
+//                        .navigationBarHidden(true)
+//                }
+//                .navigationViewStyle(StackNavigationViewStyle())
+//                .environmentObject(vm)
+//
+//                ZStack {
+//                    if showContentView {
+//                        CryptoContentView(showContentView: $showContentView)
+//                            .transition(.move(edge: .leading))
+//                    }
+//                }
+//                .zIndex(2.0)
+//            }
         }
     }
 }

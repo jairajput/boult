@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "99489b6a3b14bbc0f08ac9bb3d3203ca11e5df17ade7e34285f61f0d5190488c"
+build_start_time: [1711928287, 423444000]
+build_end_time: [1711928289, 221746000]
+inputs:
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+All.swift"
+  : [1711928108, 24791972]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Always.swift"
+  : [1711928108, 24900884]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Any.swift"
+  : [1711928108, 25030754]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Async.swift"
+  : [1711928108, 25118668]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Await.swift"
+  : [1711928108, 25319410]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Catch.swift"
+  : [1711928108, 25412407]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Delay.swift"
+  : [1711928108, 25488904]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Do.swift"
+  : [1711928108, 25564610]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Race.swift"
+  : [1711928108, 25686939]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Recover.swift"
+  : [1711928108, 25780977]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Reduce.swift"
+  : [1711928108, 25864807]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Retry.swift"
+  : [1711928108, 25950221]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Testing.swift"
+  : [1711928108, 26040884]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Then.swift"
+  : [1711928108, 26108965]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Timeout.swift"
+  : [1711928108, 26184920]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Validate.swift"
+  : [1711928108, 26265376]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise+Wrap.swift"
+  : [1711928108, 26343873]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/Promise.swift"
+  : [1711928108, 26431078]
+  ? "/Users/jaivardhan/Library/Developer/Xcode/DerivedData/boult-guegjojadtdwprbwzqfjkdtuvone/SourcePackages/checkouts/promises/Sources/Promises/PromiseError.swift"
+  : [1711928108, 26521617]
